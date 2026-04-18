@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/generator.png</file>
+        <file>icons/grn.gif</file>
+        <file>icons/red.gif</file>
+        <file>icons/yr.png</file>
+        <file>icons/bc1d10ce514cf833a52161b39acf8cc0.gif</file>
+        <file>models/generator.stl</file>
+        <file>models/gen2.stl</file>
+        <file>models/original.stl</file>
+    </qresource>
+</RCC>
